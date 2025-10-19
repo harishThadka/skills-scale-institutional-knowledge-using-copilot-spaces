@@ -33,8 +33,16 @@ Projects at OctoAcme follow a structured lifecycle with clear phases and decisio
 - **Project Manager (PM)**: Coordinates delivery, schedules, risk management, and communications
 - **Product Manager (PdM)**: Defines outcomes, prioritizes backlog, and measures success
 - **Developers**: Implement features, collaborate on design, and ensure testability
+- **Scrum Master**: Facilitates agile ceremonies, removes impediments, and coaches the team
+- **Technical Writer**: Creates and maintains documentation, user guides, and knowledge bases
+- **UX Designer**: Creates user-centered designs through research, prototyping, and testing
+- **Release Manager**: Coordinates and oversees the release process and deployment
+- **Support Lead**: Manages customer support operations and bridges gaps between customers and product teams
+- **Security Champion**: Advocates for security best practices and coordinates security reviews
 - **QA/Testing**: Validate quality and acceptance criteria
 - **Stakeholders**: Provide inputs, approvals, and feedback
+
+> For detailed role definitions, responsibilities, and interactions, see [Roles & Personas](octoacme-roles-and-personas.md)
 
 ## Key Artifacts
 
@@ -71,6 +79,8 @@ Explore our comprehensive process documentation:
 ### Supporting Processes
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)** - How to identify, manage, and communicate risks and dependencies
 - **[Roles & Personas](octoacme-roles-and-personas.md)** - Detailed definitions of team roles and responsibilities
+- **[Role-Specific Checklists](octoacme-role-checklists.md)** - Actionable checklists for each role to ensure clarity and accountability
+- **[Handoff Templates](octoacme-handoff-templates.md)** - Communication templates for smooth handoffs between roles
 
 ## How to Use These Docs
 
@@ -78,7 +88,8 @@ Explore our comprehensive process documentation:
 - **Starting a new project?** Follow the guides in order: [Initiation](octoacme-project-initiation.md) → [Planning](octoacme-project-planning.md) → [Execution](octoacme-execution-and-tracking.md)
 - **Managing risks?** Reference the [Risk Management & Communication](octoacme-risks-and-communication.md) guide
 - **Preparing for release?** Check the [Release & Deployment](octoacme-release-and-deployment.md) checklist
-- **Need role clarity?** See [Roles & Personas](octoacme-roles-and-personas.md)
+- **Need role clarity?** See [Roles & Personas](octoacme-roles-and-personas.md) and [Role-Specific Checklists](octoacme-role-checklists.md)
+- **Coordinating handoffs?** Use the [Handoff Templates](octoacme-handoff-templates.md) for smooth transitions between roles
 
 ## Best Practices
 
